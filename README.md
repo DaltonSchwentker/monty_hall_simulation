@@ -24,11 +24,11 @@ pip install matplotlib seaborn pandas
 ## Usage
 1. Clone this repository:
 ```sh
-git clone https://github.com/yourusername/monty-hall-simulation.git
+git clone https://github.com/yourusername/monty_hall_simulation.git
 ```
 2. Navigate to the project directory:
 ```sh
-cd monty-hall-simulation
+cd monty_hall_simulation
 ```
 3. Run the Python script to simulate the Monty Hall problem:
 ```sh
