@@ -2,6 +2,10 @@
 
 This repository contains a Python script that simulates the Monty Hall problem, a famous probability puzzle. The Monty Hall problem is based on a television game show where a contestant is asked to choose between three doors. Behind one door is a car, and behind the other two doors are goats. After the contestant makes their initial choice, the host (who knows what is behind each door) opens one of the remaining doors to reveal a goat. The contestant is then given the option to stick with their original choice or switch to the other unopened door. This simulation illustrates why switching doors gives a better chance of winning the car.
 
+## Link to Paper
+
+For more details and a statistical analysis of the Monty Hall problem, please refer to the paper: [Monty Hall Problem Analysis](https://github.com/DaltonSchwentker/monty_hall_simulation/blob/main/Monty_Hall_Problem.pdf)
+
 ## Project Overview
 The purpose of this project is to explore the statistical aspects of the Monty Hall problem by running a simulation of the game multiple times. The script simulates the decision-making process, calculates the outcomes, and visualizes the results using a bar plot.
 
