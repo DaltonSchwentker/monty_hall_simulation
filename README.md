@@ -54,12 +54,8 @@ The visualization will also show a bar plot comparing the number of wins for eac
 This project is licensed under the MIT License. Feel free to use, modify, and distribute this project as needed.
 
 ## Author
-- [Your Name](https://github.com/yourusername)
+- [Dalton Schwentker](https://github.com/daltonschwentker)
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request with your changes.
-
-## Acknowledgements
-- Marilyn vos Savant for popularizing the Monty Hall problem.
-- The mathematics community for their insights into probability theory and decision making.
 
